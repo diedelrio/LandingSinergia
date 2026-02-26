@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Indica la ubicación del sitemap para facilitar el rastreo
+Sitemap: https://coworkingsinergia.com/sitemap.xml
